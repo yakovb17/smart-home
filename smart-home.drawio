@@ -1,0 +1,121 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="s15N3XV4aIzNqKf7i10T">
+    <mxGraphModel dx="1466" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Erdz-vzof77_tEzFUklO-57" value="turn on / off" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Erdz-vzof77_tEzFUklO-1" target="Erdz-vzof77_tEzFUklO-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="20" />
+              <mxPoint x="220" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-59" value="GET DATA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Erdz-vzof77_tEzFUklO-1" target="Erdz-vzof77_tEzFUklO-26">
+          <mxGeometry x="0.087" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-60" value="GET DATA" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Erdz-vzof77_tEzFUklO-1" target="Erdz-vzof77_tEzFUklO-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-61" value="turn on / off" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Erdz-vzof77_tEzFUklO-1" target="Erdz-vzof77_tEzFUklO-37">
+          <mxGeometry x="-0.1852" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-62" value="GET Data" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Erdz-vzof77_tEzFUklO-1" target="Erdz-vzof77_tEzFUklO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-63" value="turn on / off" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Erdz-vzof77_tEzFUklO-1" target="Erdz-vzof77_tEzFUklO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-1" value="smart home server" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-2" value="turn on air con" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-3" value="recognize and capture persone" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="110" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-4" value="turn on outside light when out and night" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="400" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-34" value="light system" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;horizontal=1;verticalAlign=top;dashed=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-51">
+          <mxGeometry width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-35" value="get light" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Erdz-vzof77_tEzFUklO-51" source="Erdz-vzof77_tEzFUklO-37" target="Erdz-vzof77_tEzFUklO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-36" value="turn on / off" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Erdz-vzof77_tEzFUklO-51" source="Erdz-vzof77_tEzFUklO-37" target="Erdz-vzof77_tEzFUklO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-37" value="service server" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Erdz-vzof77_tEzFUklO-51">
+          <mxGeometry x="140" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-38" value="light sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-51">
+          <mxGeometry x="20" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-39" value="smart lamp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-51">
+          <mxGeometry x="230" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-50" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Erdz-vzof77_tEzFUklO-51">
+          <mxGeometry x="100" y="10" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="400" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-41" value="security system" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;horizontal=1;verticalAlign=top;dashed=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-53">
+          <mxGeometry width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-42" value="get light" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Erdz-vzof77_tEzFUklO-53" source="Erdz-vzof77_tEzFUklO-44" target="Erdz-vzof77_tEzFUklO-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-43" value="turn on / off" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Erdz-vzof77_tEzFUklO-53" source="Erdz-vzof77_tEzFUklO-44" target="Erdz-vzof77_tEzFUklO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-44" value="service server" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Erdz-vzof77_tEzFUklO-53">
+          <mxGeometry x="140" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-45" value="PIR sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-53">
+          <mxGeometry x="20" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-46" value="camera" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-53">
+          <mxGeometry x="230" y="125" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-52" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Erdz-vzof77_tEzFUklO-53">
+          <mxGeometry x="100" y="10" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-55" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="30" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-9" value="AirCon" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=none;horizontal=1;verticalAlign=bottom;dashed=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-55">
+          <mxGeometry width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-29" value="get temp" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Erdz-vzof77_tEzFUklO-55" source="Erdz-vzof77_tEzFUklO-26" target="Erdz-vzof77_tEzFUklO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-31" value="turn on / off" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Erdz-vzof77_tEzFUklO-55" source="Erdz-vzof77_tEzFUklO-26" target="Erdz-vzof77_tEzFUklO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-26" value="service server" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Erdz-vzof77_tEzFUklO-55">
+          <mxGeometry x="140" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-5" value="temp sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-55">
+          <mxGeometry x="20" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-6" value="IR transmiter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Erdz-vzof77_tEzFUklO-55">
+          <mxGeometry x="210" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Erdz-vzof77_tEzFUklO-54" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Erdz-vzof77_tEzFUklO-55">
+          <mxGeometry x="100" y="20" width="30" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
